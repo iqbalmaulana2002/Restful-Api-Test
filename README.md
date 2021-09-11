@@ -27,7 +27,7 @@ and any database settings.
 ## How to run :
 
 1. Create a new database according to your database configuration settings in the .env . file.
-2. Run `php spark migration` to create the necessary tables.
+2. Run `php spark migrate` to create the necessary tables.
 3. And then run `php spark serve` to run this project server.
 
 
