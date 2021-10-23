@@ -1,5 +1,5 @@
 # Restful-Api-Test
-Repository ini adalah restful api menggunakan codeigniter 4 untuk test sebagai backend developer.
+Repository ini adalah restful api menggunakan codeigniter 4 untuk latihan.
 
 ## Server Requirements
 
